@@ -1,0 +1,202 @@
+/* styling Login Form */
+.hold_login_form{
+    text-align: center;
+}
+.login_register_nav {
+    width: 100%;
+    margin: auto;
+    transition: all .5s ease;
+     background: rgba(74, 150, 131, 0.35);
+  }
+
+.login_register_links,
+.loginform_class{
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: left;
+    max-width: 80%;
+    margin: auto;
+}
+
+.login_register_links a {
+    font-size: 26px;
+    font-weight: 900;
+    padding: 1em;
+    padding-bottom: 0;
+    margin: auto;
+    margin-bottom: 1em;
+    color: #fff;
+}
+
+.login_active,
+.signup_active{
+    border-bottom: 1px solid #fff;
+}
+
+.input{
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+    margin: .4em auto;
+    text-align: left !important;
+    text-transform: capitalize;
+    padding-left: 15px !important;
+}
+
+.input::placeholder{
+    text-transform: capitalize;
+    text-align: left;
+    color: #888;
+}
+.input:focus{
+    outline:none;
+}
+
+.logged-in .login_register_nav{
+    display: none;
+}
+
+.loggedin_user{
+    color: #fff !important;
+    text-align: center;
+    font-size: 30px;
+    width: 50%;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 40%;
+    border-radius: 25px;
+    text-transform: uppercase;
+}
+.loggedin_user a{
+    color: #fff;
+    border-bottom: 1px solid #ccc;
+    transition: all .5s ease-in-out;
+}
+.loggedin_user a:hover{
+    border: none;
+}
+
+
+.fa {
+    font-size: 50px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.fa:hover {
+  color: darkblue;
+}
+
+.dislike{
+    width: 50% !important;
+}
+
+.toggle-off{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+}
+.btn-primary {
+    border: none !important;
+    background: #fff !important;
+    border-radius: 25px;
+    height: auto !important;
+}
+
+
+.btn.focus, .btn:focus{
+    box-shadow: none;
+}
+
+.toggle-on.btn{
+    top: 9px;
+}
+.toggle-on.btn,
+.toggle-off.btn {
+    color: #222;
+    font-size: 11px;
+    padding: 0px;
+    background: #fff;
+    border-radius: 25px;
+    font-weight: 900;
+    margin: auto;
+}
+.login-remember{
+    text-align: center !important;
+}
+
+.login-remember label{
+    font-size: 13px;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+.login_register_social{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 26px;
+    margin-top: .5em;
+}
+
+.login_register_icon{
+    color: #fff;
+    font-size: 26px;
+}
+
+.login-submit{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.login-submit input {    
+    border: none;
+    background: #fff;
+    padding: 4px;
+    width: 30%;
+    border-radius: 25px;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+.hr_container{
+    width: 100%;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: .5em;
+}
+.login_register_hr{
+    width: 50%;
+    margin: auto;
+    border: 1px solid rgba(255, 255, 255, 0.31);
+}
+
+.forget_pass{
+    height: 100px;
+    position: relative;
+    color: #fff;
+}
+.forget_pass a,
+.forget_pass p{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.forget_pass p {
+    position: absolute;
+    bottom: 0;
+}
+
+
+form#signup {
+    color: #ffffff;
+    text-align: left;
+    max-width: 80%;
+    margin: auto;
+}

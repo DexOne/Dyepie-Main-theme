@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dyepie\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-21 02:02+0000\n"
+"PO-Revision-Date: 2019-01-21 02:03+0000\n"
+"Last-Translator: Ragnar <admin@dyepie.com>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#. URI of the theme
+msgid "##"
+msgstr ""
+
+#: inc/classes/dyepie_settings.php:106
+msgid "A Foo Widget"
+msgstr ""
+
+#: template-parts/custom-products.php:16
+msgid "Add New"
+msgstr ""
+
+#: template-parts/custom-products.php:95
+msgid "Add New Item"
+msgstr ""
+
+#: template-parts/custom-products.php:15
+msgid "Add New product"
+msgstr ""
+
+#: template-parts/custom-products.php:100
+msgid "Add or remove items"
+msgstr ""
+
+#. Name of the template
+msgid "Add Product"
+msgstr ""
+
+#: template-parts/custom-products.php:91
+msgid "All Items"
+msgstr ""
+
+#: template-parts/custom-products.php:14
+msgid "All products"
+msgstr ""
+
+#: template-parts/custom-products.php:101
+msgid "Choose from the most used"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Dye Pie brings your site to life with strong knowledge , it's a WordPress "
+"Theme based in vanilla javaScript used in front end, and it's like a market "
+"place for hand-made things"
+msgstr ""
+
+#. Name of the theme
+msgid "dyepie"
+msgstr ""
+
+#: template-parts/custom-products.php:96
+msgid "Edit Item"
+msgstr ""
+
+#: template-parts/custom-products.php:18
+msgid "Edit product"
+msgstr ""
+
+#. Name of the template
+msgid "Edit Profile"
+msgstr ""
+
+#: functions.php:183
+msgid "Extra profile information"
+msgstr ""
+
+#: template-parts/custom-products.php:25
+msgid "Featured Image"
+msgstr ""
+
+#: template-parts/custom-products.php:33
+msgid "Filter products list"
+msgstr ""
+
+#: inc/classes/dyepie_settings.php:123
+msgid "Hello, World!"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://soon"
+msgstr ""
+
+#: template-parts/custom-products.php:29
+msgid "Insert into product"
+msgstr ""
+
+#: 404.php:28
+msgid "it's 404 Morty"
+msgstr "انها 404 مورتى"
+
+#: functions.php:123
+msgid "it's a header navbar menu"
+msgstr ""
+
+#: template-parts/custom-products.php:106
+msgid "Items list"
+msgstr ""
+
+#: template-parts/custom-products.php:107
+msgid "Items list navigation"
+msgstr ""
+
+#. Name of the template
+msgid "Login Page"
+msgstr ""
+
+#: template-parts/custom-products.php:94
+msgid "New Item Name"
+msgstr ""
+
+#: template-parts/custom-products.php:17
+msgid "New product"
+msgstr ""
+
+#: inc/classes/dyepie_settings.php:135
+msgid "New title"
+msgstr ""
+
+#: taxonomy-prod.php:154
+msgid "Next"
+msgstr ""
+
+#: template-parts/custom-products.php:105
+msgid "No items"
+msgstr ""
+
+#: template-parts/custom-products.php:104
+msgid "Not Found"
+msgstr ""
+
+#: template-parts/custom-products.php:23
+msgid "Not found"
+msgstr ""
+
+#: template-parts/custom-products.php:24
+msgid "Not found in Trash"
+msgstr ""
+
+#: template-parts/custom-products.php:92
+msgid "Parent Item"
+msgstr ""
+
+#: template-parts/custom-products.php:93
+msgid "Parent Item:"
+msgstr ""
+
+#: template-parts/custom-products.php:13
+msgid "Parent product:"
+msgstr ""
+
+#: functions.php:198
+msgid "Please enter your whatsapp number ."
+msgstr ""
+
+#: template-parts/custom-products.php:102
+msgid "Popular Items"
+msgstr ""
+
+#: taxonomy-prod.php:153
+msgid "Previous"
+msgstr ""
+
+#: template-parts/custom-products.php:7 template-parts/custom-products.php:10
+#: template-parts/custom-products.php:57
+msgid "product"
+msgstr ""
+
+#: template-parts/custom-products.php:11
+msgid "product Archives"
+msgstr ""
+
+#: template-parts/custom-products.php:12
+msgid "product Attributes"
+msgstr ""
+
+#: template-parts/custom-products.php:90
+msgid "product list"
+msgstr ""
+
+#: template-parts/custom-products.php:8 template-parts/custom-products.php:9
+msgid "products"
+msgstr ""
+
+#: template-parts/custom-products.php:31
+msgid "products list"
+msgstr ""
+
+#: template-parts/custom-products.php:32
+msgid "products list navigation"
+msgstr ""
+
+#. Author of the theme
+msgid "Ragnar"
+msgstr ""
+
+#. Name of the template
+msgid "Register Page"
+msgstr ""
+
+#: template-parts/custom-products.php:27
+msgid "Remove featured image"
+msgstr ""
+
+#: template-parts/custom-products.php:103
+msgid "Search Items"
+msgstr ""
+
+#: template-parts/custom-products.php:22
+msgid "Search product"
+msgstr ""
+
+#: template-parts/custom-products.php:99
+msgid "Separate items with commas"
+msgstr ""
+
+#: template-parts/custom-products.php:26
+msgid "Set featured image"
+msgstr ""
+
+#: template-parts/custom-products.php:58
+msgid "show users products"
+msgstr ""
+
+#: inc/metabox.php:103
+msgid "single_product"
+msgstr ""
+
+#: template-parts/custom-products.php:88
+msgctxt "Taxonomy General Name"
+msgid "product list"
+msgstr ""
+
+#: template-parts/custom-products.php:89
+msgctxt "Taxonomy Singular Name"
+msgid "product list"
+msgstr ""
+
+#: inc/classes/dyepie_settings.php:138
+msgid "Title:"
+msgstr ""
+
+#: functions.php:212
+msgid "Twitter Profile Link"
+msgstr ""
+
+#: template-parts/custom-products.php:97
+msgid "Update Item"
+msgstr ""
+
+#: template-parts/custom-products.php:19
+msgid "Update product"
+msgstr ""
+
+#: template-parts/custom-products.php:30
+msgid "Uploaded to this product"
+msgstr ""
+
+#: template-parts/custom-products.php:28
+msgid "Use as featured image"
+msgstr ""
+
+#: template-parts/custom-products.php:98
+msgid "View Item"
+msgstr ""
+
+#: template-parts/custom-products.php:20
+msgid "View product"
+msgstr ""
+
+#: template-parts/custom-products.php:21
+msgid "View products"
+msgstr ""
+
+#: functions.php:194
+msgid "Whatsapp Number"
+msgstr ""
+
+#. Base ID
+#: inc/classes/dyepie_settings.php:105
+msgid "Widget Title"
+msgstr ""

@@ -1,0 +1,8 @@
+body.login{
+    background: #212529;
+}
+
+#login {
+    background: rgba(55, 140, 206, 0.69);
+    width: 80%;
+}
