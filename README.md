@@ -1,2 +1,2 @@
 # Dyepie-main-theme
-it's a woo-commerce WordPress Themee
+Dyepie is e-commerce WordPress Theme
